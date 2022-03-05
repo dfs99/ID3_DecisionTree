@@ -1,0 +1,9 @@
+Edad,Salario,Indefinido,Cliente,Clase
+Joven,Poco,No,No,No
+Adulto,Ninguno,Si,Si,No
+Adulto,Mediano,No,No,Sí
+Joven,Poco,No,No,No
+Joven,Mucho,Si,Si,Sí
+Adulto,Mediano,Si,Si,Sí
+Joven,Poco,Si,Si,Sí
+Adulto,Poco,No,Si,No
