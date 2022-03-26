@@ -1,6 +1,6 @@
 # ID3 Decision Tree Algorithm
 
-The repository itself contains an implementation for the well-know 
+The repository itself contains an implementation for the well-known 
 ID3 algorithm. The implementation carried out uses a LIFO to apply
 backtracking instead of recursive calls. 
 
